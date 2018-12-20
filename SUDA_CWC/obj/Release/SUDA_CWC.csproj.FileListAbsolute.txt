@@ -1,0 +1,8 @@
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\bin\Release\SUDA_CWC.exe
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\bin\Release\SUDA_CWC.pdb
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.Form1.resources
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.Properties.Resources.resources
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.exe
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Release\SUDA_CWC.pdb

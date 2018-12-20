@@ -1,0 +1,12 @@
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\bin\Debug\SUDA_CWC.exe
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\bin\Debug\SUDA_CWC.pdb
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.Form1.resources
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.Properties.Resources.resources
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.exe
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.pdb
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.csproj.ResolveComReference.cache
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\obj\Debug\SUDA_CWC.Setting.resources
+C:\Users\Jerry\Desktop\SUDA_CWC\SUDA_CWC\bin\Debug\SUDA_CWC.exe.config

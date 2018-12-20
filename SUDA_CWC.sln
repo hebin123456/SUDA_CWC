@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUDA_CWC", "SUDA_CWC\SUDA_CWC.csproj", "{16C7523A-9DED-4FF9-8625-B7F4B08BC145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C7523A-9DED-4FF9-8625-B7F4B08BC145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C7523A-9DED-4FF9-8625-B7F4B08BC145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C7523A-9DED-4FF9-8625-B7F4B08BC145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C7523A-9DED-4FF9-8625-B7F4B08BC145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AB1EF7-FCB5-44D3-92EE-6C8E54D21BD0}
+	EndGlobalSection
+EndGlobal
